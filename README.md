@@ -5,4 +5,4 @@ A ferramenta permite que os usuários façam upload de vídeos e realizem pergun
 
 Com a Upload AI, os usuários têm acesso a uma gama de possibilidades para explorar e compreender melhor o conteúdo dos vídeos.
 
-O Front-end da aplicação se encontra no repositório https://github.com/developer-vitoria-luiza/api-upload-ai
+O Back-end da aplicação se encontra no repositório https://github.com/developer-vitoria-luiza/api-upload-ai
